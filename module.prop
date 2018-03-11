@@ -1,0 +1,7 @@
+id=magisk-open-dns
+name=Magisk Open DNS
+version=v1.0
+versionCode=1
+author=blazzer12
+description=Use Open DNS servers instead of the provided by the ISP or Access Point. You will get the fastest possible DNS server.
+minMagisk=1500
